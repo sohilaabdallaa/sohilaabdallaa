@@ -2,19 +2,24 @@
 <div align='center'>
   
 ![](https://user-images.githubusercontent.com/53753947/234941254-513b6987-d712-4da9-8e01-01b415bbbcbb.gif)
+</div>
+<div align="center">
 
   
 ### mortar_board: Graduating:
 Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial Intelligence), Cairo University.
-
+  
+  
 ### Talking about Personal Stuffs:
-🔭 I’m currently working on Misr Language schools.
-  🌱 I’m currently learning Linux and C.
-  👯 I’m looking to collaborate on Research and Development
-  💬 Ask me about anything, I am happy to help.
-  📫 How to reach me: sohilaabdalla113@gmail.com
-  😄 Pronouns: she/her
-
+  
+ <li> 🔭 I’m currently working on Misr Language schools.</li>
+ <li>🌱 I’m currently learning Linux and C.</li>
+ <li>👯 I’m looking to collaborate on Research and Development </li>
+ <li>💬 Ask me about anything, I am happy to help. </li>
+ <li>📫 How to reach me: sohilaabdalla113@gmail.com </li>
+ <li>😄 Pronouns: she/her </li>
+  
+  
 ### Languages and Tools:
 
 <p align="center">
