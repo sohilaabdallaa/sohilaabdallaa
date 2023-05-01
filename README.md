@@ -27,6 +27,9 @@ Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial
 
   </div>
   </p>
+  
+  
+
 <div align = 'center'>
   <p align="center">
   <i> Let's connect and chat! Find me on the web...</i>
