@@ -7,9 +7,6 @@
 ### :mortar_board: Graduating:
 Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial Intelligence), Cairo University.
 
-<!--
-**sohilaabdallaa/sohilaabdallaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Misr Language schools.
@@ -18,6 +15,9 @@ Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: sohilaabdalla113@gmail.com
 - 😄 Pronouns: she/her
+<!--
+**sohilaabdallaa/sohilaabdallaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 -->
 
 
