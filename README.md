@@ -6,7 +6,7 @@
 <div align="center">
 
   
-### mortar_board: Graduating:
+### :mortar_board: Graduating:
 Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial Intelligence), Cairo University.
   
   
@@ -20,7 +20,7 @@ Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial
  <li>😄 Pronouns: she/her </li>
   
   
-### Languages and Tools:
+### Languages and Tools :computer:
 
 <p align="center">
 
@@ -45,8 +45,9 @@ Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial
   </p>
 </div>
   </div>
-
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa) 
+  
+  
+  <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa) 
   [![GeeksforGeeks Badge](https://img.shields.io/badge/-sohilaabdalla-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sohilaabdalla113/)](https://auth.geeksforgeeks.org/user/sohilaabdalla113/)
 
   
