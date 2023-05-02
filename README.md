@@ -32,7 +32,6 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
   </div>
   </p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilaabdallaa&layout=compact)
 
 <div align = 'center'>
   <p align="center">
@@ -65,5 +64,8 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
 <!-- 
   
 ![](https://user-images.githubusercontent.com/53753947/234941254-513b6987-d712-4da9-8e01-01b415bbbcbb.gif)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilaabdallaa&layout=compact)
 -->
 
