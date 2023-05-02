@@ -1,9 +1,11 @@
 
 <div align='center'>
-  
-![](https://user-images.githubusercontent.com/53753947/234941254-513b6987-d712-4da9-8e01-01b415bbbcbb.gif)
+
+
+
+![0660efe82fa3da42ed56eef013171835](https://user-images.githubusercontent.com/53753947/235632344-7ddd4d67-cde6-479b-9b0d-837a879ea27e.gif)
+
 </div>
-<div align="center">
 
   
 ### Graduating 🎓
@@ -60,5 +62,8 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
 **sohilaabdallaa/sohilaabdallaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
+<!-- 
+  
+![](https://user-images.githubusercontent.com/53753947/234941254-513b6987-d712-4da9-8e01-01b415bbbcbb.gif)
+-->
 
