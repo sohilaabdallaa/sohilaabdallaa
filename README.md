@@ -7,8 +7,7 @@
 
   
 ### :mortar_board: Graduating:
-Information System bachelor degree, in FCAI (Facutly fo Computers and Artificial Intelligence), Cairo University.
-  
+I have recently graduated with a Bachelor's degree from the Faculty of Computers and AI at Cairo University, with a specialization in Information Systems and a strong foundation in Software Engineering.
   
 ### Talking about Personal Stuffs:
   
