@@ -6,10 +6,10 @@
 <div align="center">
 
   
-### :mortar_board: Graduating:
+### Graduating 🎓
 I have recently graduated with a Bachelor's degree from the Faculty of Computers and AI at Cairo University, with a specialization in Information Systems and a strong foundation in Software Engineering.
   
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs 😃
   
  <li> 🔭 I’m currently working on Misr Language schools.</li>
  <li>🌱 I’m currently learning Linux and C.</li>
@@ -19,7 +19,7 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
  <li>😄 Pronouns: she/her </li>
   
   
-### Languages and Tools :computer:
+### Languages and Tools 💻
 
 <p align="center">
 
