@@ -13,8 +13,8 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
   
 ### Talking about Personal Stuffs 😃
   
- <li> 🔭 I’m currently working on Misr Language schools.</li>
- <li>🌱 I’m currently learning Linux and C.</li>
+ <li> 🔭 I'm currently on a scholarship at ITI.</li>
+ <li>🌱 I’m currently learning Software Testing and Quality Assurance.</li>
  <li>👯 I’m looking to collaborate on Research and Development </li>
  <li>💬 Ask me about anything, I am happy to help. </li>
  <li>📫 How to reach me: sohilaabdalla113@gmail.com </li>
