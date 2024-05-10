@@ -30,8 +30,6 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
    [![Linkedin Badge](https://img.shields.io/badge/-sohilaabdalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohila-abdalla)](https://www.linkedin.com/in/sohila-abdalla) 
    [![Medium Badge](https://img.shields.io/badge/-@sohilaabdalla-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@sohilaabdalla113)](https://medium.com/@sohilaabdalla113) 
    [![Gmail Badge](https://img.shields.io/badge/-sohilaabdalla-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohilaabdalla113@gmail.com)](mailto:sohilaabdalla113@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@sohila.abdalla-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sohila.abdalla?igshid=YmMyMTA2M2Y=)](https://instagram.com/sohila.abdalla?igshid=YmMyMTA2M2Y=) 
-   [![Facebook Badge](https://img.shields.io/badge/-sohilaabdalla-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sohilaabdalla113?mibextid=LQQJ4d)](https://www.facebook.com/sohilaabdalla113?mibextid=LQQJ4d)
   </p>
 </div>
   </div>
@@ -52,10 +50,10 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
 
 -->
 <!-- 
-  
+ 
 ![](https://user-images.githubusercontent.com/53753947/234941254-513b6987-d712-4da9-8e01-01b415bbbcbb.gif)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilaabdallaa&layout=compact)
 
-
+ -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilaabdallaa&layout=compact)
--->
-
+![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=sohilaabdallaa&count_private=true&show_icons=true)
