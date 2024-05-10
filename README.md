@@ -56,4 +56,3 @@ I have recently graduated with a Bachelor's degree from the Faculty of Computers
 
  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilaabdallaa&layout=compact)
-![nagln's's github stats](https://github-readme-stats.vercel.app/api?username=sohilaabdallaa&count_private=true&show_icons=true)
