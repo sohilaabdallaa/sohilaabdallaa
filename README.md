@@ -2,23 +2,13 @@
 <div align='center'>
 
 
-
-![0660efe82fa3da42ed56eef013171835](https://user-images.githubusercontent.com/53753947/235632344-7ddd4d67-cde6-479b-9b0d-837a879ea27e.gif)
+![Blue Modern Marketing Manager LinkedIn Banner](https://github.com/sohilaabdallaa/sohilaabdallaa/assets/53753947/641b0395-e357-463a-a327-57bda6379555)
 
 </div>
 
   
 ### Graduating 🎓
 I have recently graduated with a Bachelor's degree from the Faculty of Computers and AI at Cairo University, with a specialization in Information Systems and a strong foundation in Software Engineering.
-  
-### Talking about Personal Stuffs 😃
-  
- <li> 🔭 I'm currently a Software tester at ITI.</li>
- <li>🌱 I’m currently learning Software Testing and Quality Assurance.</li>
- <li>👯 I’m looking to collaborate on Research and Development </li>
- <li>💬 Ask me about anything, I am happy to help. </li>
- <li>📫 How to reach me: sohilaabdalla113@gmail.com </li>
- <li>😄 Pronouns: she/her </li>
   
   
 ### Languages and Tools 💻
