@@ -7,9 +7,16 @@
 </div>
 
   
-### Graduating 🎓
-I have recently graduated with a Bachelor's degree from the Faculty of Computers and AI at Cairo University, with a specialization in Information Systems and a strong foundation in Software Engineering.
-  
+### About Me
+working as a QC Engineer at Instabug. 
+I hold a diploma from the ITI program, specializing in Software Testing and Quality Assurance. ISTQB Certifications reinforce my qualifications:
+
+CTFL (Certified Tester Foundation Level)
+CT-AT (Certified Tester Foundation Level Agile Tester)
+CT-MAT (Certified Tester Mobile Application Testing)
+CT-PT (Certified Tester Performance Testing)
+I graduated with a Bachelor's degree from the Faculty of Computers and AI at Cairo University, specializing in Information Systems.
+
   
 ### Languages and Tools 💻
 
