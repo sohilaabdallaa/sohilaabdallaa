@@ -8,7 +8,7 @@
 
   
 ### About Me
-I AM working as a QC Engineer at Instabug.  
+I am working as a QC Engineer at Instabug.  
 I hold a diploma from the ITI program, specializing in Software Testing and Quality Assurance.   
 ISTQB Certifications:
 
